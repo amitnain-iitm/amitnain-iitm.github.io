@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://amitnain0183.github.io/sitemap.xml
+Sitemap: https://amitnain-iitm.github.io/sitemap.xml
