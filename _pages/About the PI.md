@@ -8,8 +8,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>MSB 227</p>
-    <p>Mechanical Sciences Block</p>
+    <p> MSB 227 </p>
+    <p> Mechanical Sciences Block </p>
 
 
 news: true # includes a list of news items
